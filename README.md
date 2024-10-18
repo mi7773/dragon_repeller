@@ -1,8 +1,8 @@
 # Dragon Repeller
 ![Dragon Repeller](dragon_repeller.png)
 ## Description
-- Welcome to Dragon Repeller. You must defeat the dragon that is preventing people from leaving the town. You are in the town square. Where do you want to go? Use the buttons above.
-- Dragon Repeller is a simple browser-based game built using HTML, CSS, and JavaScript. This project was created as part of my learning experience with FreeCodeCamp.
+Welcome to Dragon Repeller. You must defeat the dragon that is preventing people from leaving the town. You are in the town square. Where do you want to go? Use the buttons above.
+Dragon Repeller is a simple browser-based game built using HTML, CSS, and JavaScript. This project was created as part of my learning experience with [FreeCodeCamp](https://github.com/freeCodeCamp) and their tutorial -Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB)-. You can check out the tutorial [here](https://www.youtube.com/watch?v=nu_pCVPKzTk).
 ## Features:
 - Dynamic Scoring: Real-time score tracking based on the player's interactions.
 ## What I Learned:
